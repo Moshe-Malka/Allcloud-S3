@@ -1,7 +1,0 @@
-README.md
-setup.py
-Allcloud_S3.egg-info/PKG-INFO
-Allcloud_S3.egg-info/SOURCES.txt
-Allcloud_S3.egg-info/dependency_links.txt
-Allcloud_S3.egg-info/top_level.txt
-allcloud-s3/__init__.py
