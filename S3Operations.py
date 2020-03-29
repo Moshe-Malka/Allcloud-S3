@@ -2,7 +2,6 @@ import logging
 import boto3
 import re
 import pandas as pd
-import sys
 import io
 
 class S3Operations:
